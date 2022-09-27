@@ -12,6 +12,10 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
+        },
+        {
+            "name": "Fortune500",
+            "path": "fortune500.txt"
         }
     ]
 }
