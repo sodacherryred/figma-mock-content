@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red234\green232\blue240;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c93333\c92941\c95294;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx566\pardeftab720\partightenfactor0
+
+\f0\fs20 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Robert Half\cb1 \
+\cb3 Kelly Services\cb1 \
+\cb3 Korn Ferry\cb1 \
+\cb3 Aerotek\cb1 \
+\cb3 Manpower\cb1 \
+\cb3 Adecco\cb1 \
+\cb3 Randstad\cb1 \
+\cb3 Lucas Group\cb1 \
+\cb3 Kforce\cb1 \
+\cb3 AppleOne\cb1 \
+Toptal\
+Express Employment Professionals\
+Insight Global\
+Aquent\
+Vaco\
+Workbridge Associates\
+PEAK Technical Services\
+Cornerstone Staffing Solutions\
+Lucas Group\
+Eastridge Workforce Solutions\
+Hire Dynamics\
+Modis\
+Advanced Resources\
+Arch Staffing & Consulting}
