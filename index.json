@@ -1,15 +1,7 @@
 {
     "name": "Default",
     "lists": [
-        {
-            "name": "Staff Companies",
-            "path": "Staffing.txt"
-        },
          {
-            "name": "Fortune500",
-            "path": "fortune500.txt"
-        },
-        {
             "name": "First Names",
             "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
         },
@@ -20,6 +12,18 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
+        },
+         {
+            "name": "Companies",
+            "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/fortune500.txt"
+        },
+          {
+            "name": "Staff Companies",
+            "path": "Staffing.txt"
+        },
+         {
+            "name": "Fortune500",
+            "path": "fortune500.txt"
         }
     ]
 }
