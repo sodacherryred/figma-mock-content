@@ -3,7 +3,7 @@
     "lists": [
         {
             "name": "Companies",
-            "url": "https://github.com/sodacherryred/figma-mock-content/blob/main/fortune500.txt"
+            "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/fortune500.txt"
         },
         {
             "name": "First Names",
