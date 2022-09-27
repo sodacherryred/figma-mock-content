@@ -2,8 +2,8 @@
     "name": "Default",
     "lists": [
         {
-            "name": "Companies",
-            "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/fortune500.txt"
+            "name": "Staff Companies",
+            "path": "Staffing.txt"
         },
          {
             "name": "Fortune500",
