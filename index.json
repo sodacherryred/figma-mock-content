@@ -2,6 +2,10 @@
     "name": "Default",
     "lists": [
         {
+            "name": "Companies",
+            "url": "https://github.com/sodacherryred/figma-mock-content/blob/main/fortune500.txt"
+        },
+        {
             "name": "First Names",
             "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
         },
