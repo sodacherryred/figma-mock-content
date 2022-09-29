@@ -13,9 +13,8 @@
             "name": "Addresses",
             "path": "addresses.txt"
         },
-        {
-            "name": "Departments",
-            "path": "Departments.txt"
+        { "name": "Departmenturl",
+          "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/Departments.txt"
         },
          {
             "name": "Jobs",
