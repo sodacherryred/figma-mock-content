@@ -10,6 +10,10 @@
             "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
         },
         {
+            "name": "Categoria",
+            "url": "https://raw.githubusercontent.com/mkuthan/example-spark/master/src/main/resources/data/departments.txt"
+        },
+        {
             "name": "Last Names",
             "path": "last-names.txt"
         },
@@ -17,16 +21,12 @@
             "name": "Addresses",
             "path": "addresses.txt"
         },
-         {
-            "name": "Companies",
-            "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/fortune500.txt"
-        },
           {
             "name": "Staff Companies",
             "path": "Staffing.txt"
         },
          {
-            "name": "Fortune500",
+            "name": "Fortune500 Companies",
             "path": "fortune500.txt"
         }
     ]
