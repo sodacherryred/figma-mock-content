@@ -26,6 +26,14 @@
             "path": "Staffing.txt"
         },
          {
+            "name": "Ubicación",
+            "path": "Place.txt"
+        },
+        {
+            "name": "Ubicación",
+            "path": "US-states.txt"
+        },
+         {
             "name": "Fortune500",
             "path": "fortune500.txt"
         }
