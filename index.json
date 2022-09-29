@@ -1,6 +1,10 @@
 {
     "name": "Default",
     "lists": [
+        {
+            "name": "Categoria",
+            "url": "https://raw.githubusercontent.com/mkuthan/example-spark/master/src/main/resources/data/departments.txt"
+        },
          {
             "name": "Jobs",
             "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/Jobs.txt"
@@ -8,10 +12,6 @@
          {
             "name": "First Names",
             "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
-        },
-        {
-            "name": "Categoria",
-            "url": "https://raw.githubusercontent.com/mkuthan/example-spark/master/src/main/resources/data/departments.txt"
         },
         {
             "name": "Last Names",
