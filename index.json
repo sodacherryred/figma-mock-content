@@ -13,12 +13,16 @@
             "name": "Addresses",
             "path": "addresses.txt"
         },
-        { "name": "Departmenturl",
-          "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/Departments.txt"
-        },
          {
             "name": "Jobs",
             "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/Jobs.txt"
+        },
+        { "name": "Departmenturl",
+          "url": "https://raw.githubusercontent.com/sodacherryred/figma-mock-content/main/Departments.txt"
+        },
+        {
+            "name": "Departments",
+            "path": "Departments.txt"
         },
           {
             "name": "Staff Companies",
