@@ -21,6 +21,10 @@
             "name": "Addresses",
             "path": "addresses.txt"
         },
+        {
+            "name": "Categories",
+            "path": "Departments.txt"
+        },
           {
             "name": "Staff Companies",
             "path": "Staffing.txt"
